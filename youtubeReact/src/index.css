@@ -1,0 +1,9 @@
+.component{
+    font-family: sans-serif;
+    background-color: pink;
+    color: black;
+}
+.wine>p:nth-child(2){
+    color: lightslategray;
+    font-style: italic;
+}
