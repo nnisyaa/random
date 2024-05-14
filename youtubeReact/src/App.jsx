@@ -132,5 +132,60 @@
 
 
 //presentation 4 События и состояние
+//task1
+// import SubscribeButton from "./SubscribeButton";
+// import { Component } from "react";
+// class App extends Component{
+//   render(){
+//     return(
+//       <>
+//       <SubscribeButton/>
+//       </>
+//     )
+//   }
+// }
+// export default App
+
+//state task2 
+// import SubscribeButton from "./SubscribeButton";
+// import { Component } from "react";
+// class App extends Component{
+//   render(){
+//     return(
+//       <>
+//       <SubscribeButton/>
+//       </>
+//     )
+//   }
+// }
+// export default App
 
 
+//setState task3
+// import { Component } from "react";
+// import SubscribeButton from "./SubscribeButton";
+// class App extends Component{
+//   render(){
+//     return(
+//       <>
+//       <SubscribeButton/>
+//       </>
+//     )
+//   }
+// }
+// export default App
+
+
+//task4
+// import { Component } from "react";
+// import SubscribeButton from "./SubscribeButton";
+// class App extends Component{
+//   render(){
+//     return(
+//       <>
+//       <SubscribeButton/>
+//       </>
+//     )
+//   }
+// }
+// export default App
