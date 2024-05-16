@@ -189,3 +189,9 @@
 //   }
 // }
 // export default App
+
+
+//presentation5
+
+
+//presentation 12 functional component
