@@ -26,3 +26,10 @@
     background-color: rgb(81, 81, 218);
     color: rgb(7, 2, 2);
 } 
+.random-number-btn{
+    background-color: rgb(20, 20, 231);
+    color: white;
+    border-style: none;
+    width: 200px;
+    height: 40px;
+}

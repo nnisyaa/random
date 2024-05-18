@@ -195,3 +195,33 @@
 
 
 //presentation 12 functional component
+//task
+// import Functional from "./Functional"
+// export default function App(){
+//     return(
+//       <>
+//       <Functional text = 'click' />
+//       </>
+//     )
+// }
+
+
+// task random-number
+// import Functional from "./Functional"
+// export default function App(){
+//     return(
+//       <>
+//       <Functional/>
+//       </>
+//     )
+// }
+
+//task - + buttons and stock
+import Functional from "./Functional"
+export default function App(){
+    return(
+      <>
+      <Functional/>
+      </>
+    )
+}
